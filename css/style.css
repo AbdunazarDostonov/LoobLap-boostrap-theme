@@ -237,7 +237,6 @@ button:hover{
     }
     .homecontainer{
         padding-top:50px;
-        margin:20px 50px 0 50px; 
         text-align:  center;
 }
     .gridboxes h1{
@@ -251,9 +250,6 @@ button:hover{
         width: 100%;
         margin-top: 6rem;
     }
-    .homecontainer{
-        margin:55px 25px 0 25px;
-    }
     .gridboxes{
     display: none;
     }
@@ -262,4 +258,9 @@ button:hover{
     font-size: 30px;
     padding: 5px;
 }
+
+.homecontainer{
+    margin: 0 5rem;
+    padding: 5rem 0 4rem 0;
+    }
 }
